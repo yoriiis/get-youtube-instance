@@ -1,17 +1,19 @@
 {
-	"name": "npm-package-boilerplate",
+	"name": "get-youtube-instance",
 	"version": "1.0.0",
-	"description": "Boilerplate to kickstart creating a npm package",
-	"homepage": "https://github.com/yoriiis/npm-package-boilerplate",
-	"bugs": "https://github.com/yoriiis/npm-package-boilerplate/issues",
-	"repository": "https://github.com/yoriiis/npm-package-boilerplate.git",
+	"description": "Get Youtube instance of iframe player (selector or id)",
+	"keywords": [
+		"youtube",
+		"youtube api",
+		"iframe",
+		"youtube instance",
+		"player instance"
+	],
+	"homepage": "https://github.com/yoriiis/get-youtube-instance",
+	"bugs": "https://github.com/yoriiis/get-youtube-instance/issues",
+	"repository": "https://github.com/yoriiis/get-youtube-instance.git",
 	"license": "MIT",
 	"author": "Yoriiis aka Joris DANIEL",
-	"keywords": [
-		"boilerplate",
-		"npm",
-		"npm package"
-	],
 	"scripts": {
 		"coverage": "npm run test:coverage && cat ./coverage/lcov.info | coveralls",
 		"test": "jest",
