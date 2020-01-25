@@ -1,7 +1,7 @@
 /**
  * @license MIT
  * @name getYoutubeInstance
- * @version 1.0.0
+ * @version 1.0.1
  * @author: Yoriiis aka Joris DANIEL <joris.daniel@gmail.com>
  * @description: Get Youtube instance of iframe player (selector or id)
  * {@link https://github.com/yoriiis/get-youtube-instance}
