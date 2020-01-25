@@ -1,9 +1,10 @@
 # getYoutubeInstance
 
-![getYoutubeInstance](https://img.shields.io/badge/get--youtube--instance-v1.0.0-546e7a.svg?style=for-the-badge) [![TravisCI](https://img.shields.io/travis/com/yoriiis/get-youtube-instance/master?style=for-the-badge)](https://travis-ci.com/yoriiis/get-youtube-instance) [![Coverage Status](https://img.shields.io/coveralls/github/yoriiis/get-youtube-instance?style=for-the-badge)](https://coveralls.io/github/yoriiis/get-youtube-instance?branch=master) ![Node.js](https://img.shields.io/node/v/get-youtube-instance?style=for-the-badge) [![Bundlephobia](https://img.shields.io/bundlephobia/minzip/get-youtube-instance?style=for-the-badge)](https://bundlephobia.com/result?p=get-youtube-instance@latest)
+![getYoutubeInstance](https://img.shields.io/badge/get--youtube--instance-v1.0.1-546e7a.svg?style=for-the-badge) [![TravisCI](https://img.shields.io/travis/com/yoriiis/get-youtube-instance/master?style=for-the-badge)](https://travis-ci.com/yoriiis/get-youtube-instance) [![Coverage Status](https://img.shields.io/coveralls/github/yoriiis/get-youtube-instance?style=for-the-badge)](https://coveralls.io/github/yoriiis/get-youtube-instance?branch=master) ![Node.js](https://img.shields.io/node/v/get-youtube-instance?style=for-the-badge) [![Bundlephobia](https://img.shields.io/bundlephobia/minzip/get-youtube-instance?style=for-the-badge)](https://bundlephobia.com/result?p=get-youtube-instance@latest)
 
-`getYoutubeInstance` is a minimalist script to easily get the Youtube instance from Youtube player `iframe` (element or id).
+`getYoutubeInstance` is a minimalist script to easily get the Youtube instance from a player added with [Youtube iframe API](https://developers.google.com/youtube/iframe_api_reference?hl=en).
 
+The function accept HTML element (iframe) or HTML element id.
 The YouTube instance then allows you to manipulate the player.
 
 ## Installation
